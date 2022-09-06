@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,700&family=Source+Code+Pro:wght@300&display=swap");
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.Title,
+.Subtitle,
+.Rating,
+.Price,
+.Text {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.Title {
+  color: chocolate;
+  font-size: 20px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.Subtitle {
+  color: rgb(206, 55, 125);
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+}
+
+.Rating {
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.Price {
+  color: rgb(184, 6, 35);
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Text {
+  color: rgb(29, 18, 20);
+  font-weight: lighter;
+  font-size: 20px;
+}
